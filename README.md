@@ -6,3 +6,6 @@ Code is written in java as part of the project in the subject. The skeleton code
 
 ## About the game
 It is a game based on space invaders. It features 6 bosses, 60 levels (most of them are randomly generated with Python), additional power-ups, and additional enemies
+
+## How to play
+You can download it, but you need to compile it and set the libraries. It uses Slick2D.
